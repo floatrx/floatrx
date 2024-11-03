@@ -2,7 +2,7 @@
 
 My name is Andrew Floatrx.
 
-I'm skilled and self-motivated frontend developer with 15 years of experience 
+I'm skilled frontend developer with 15 years of experience 
 in the IT industry, specializing in TypeScript/JavaScript, React, Next.js, and UI/UX...
 
 ### About me
