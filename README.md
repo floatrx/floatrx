@@ -10,7 +10,6 @@ I started my IT career as a web designer in 2010 and rich strong UI/UX design ex
 
 - 🔭 I’m currently working on my pet projects
 - 🌱 I’m currently learning nodejs and full stack development
-- 👯 I’m looking to collaborate on modern project with interesting tasks and challenges that offer opportunities for growth. I am looking for a strong team that values learning and innovation. I am available for full-time remote work.
 - 📫 How to reach me: https://www.linkedin.com/in/floatrx/
 
 ### My core skills
