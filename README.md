@@ -10,8 +10,11 @@ My code style? Minimalist, modular, and pragmatic — always optimized for maint
 I started my career as a web designer back in 2010, building strong UI/UX foundations that I still carry into every line of code.  
 Since 2014, I've been crafting complex web apps as a frontend developer, with a growing passion for full-stack engineering.
 
-- 🔭 Currently focused on my own pet projects
-- 🌱 Learning Node.js and exploring full-stack architecture
+I'm currently open to new projects and freelance opportunities.  
+I also offer consulting and architecture audits to help improve performance, code quality, and scalability — especially within the React ecosystem.
+
+- 🔭 Currently focused on my own pet projects  
+- 🌱 Learning Node.js and exploring full-stack architecture  
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/floatrx/)
 
 ### My core skills
