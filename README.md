@@ -1,24 +1,35 @@
 ## Hi there 👋
 
-My name is Andrew Floatrx.
+My name is Andrew Floatrx — but you can call me floatrx.
 
-I'm skilled frontend developer with 15 years of experience 
-in the IT industry, specializing in TypeScript/JavaScript, React, Next.js, and UI/UX...
+I'm a frontend craftsman with 15+ years in IT, specializing in TypeScript, React, Next.js, and clean UI/UX architecture.  
+My code style? Minimalist, modular, and pragmatic — always optimized for maintainability and developer happiness.
 
 ### About me
-I started my IT career as a web designer in 2010 and rich strong UI/UX design expertise. I've been working as frontend developer and app design since 2014. 
 
-- 🔭 I’m currently working on my pet projects
-- 🌱 I’m currently learning nodejs and full stack development
-- 📫 How to reach me: https://www.linkedin.com/in/floatrx/
+I started my career as a web designer back in 2010, building strong UI/UX foundations that I still carry into every line of code.  
+Since 2014, I've been crafting complex web apps as a frontend developer, with a growing passion for full-stack engineering.
+
+- 🔭 Currently focused on my own pet projects
+- 🌱 Learning Node.js and exploring full-stack architecture
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/floatrx/)
 
 ### My core skills
 
-`HTML5`, `CSS4`, `CSS Modules`, `SCSS`, `LESS`, `JavaScript`, `TypeScript`, `React`, `Redux`, `Redux Toolkit`, `Lodash`, `Next.js`, `Ant design`, `ShadCN`, `NextUI`, `Tailwind CSS`, `Strapi`, `WebSocket`, `Socket.io`, `Webpack`, `Vite.js`, `S3`
+`HTML5`, `CSS4`, `CSS Modules`, `SCSS`, `LESS`, `JavaScript`, `TypeScript`, `React`, `Redux`, `Redux Toolkit`, `Lodash`, `Next.js`, `Ant Design`, `ShadCN`, `NextUI`, `Tailwind CSS`, `Strapi`, `WebSocket`, `Socket.io`, `Webpack`, `Vite.js`, `S3`
 
-`RestFull API`, `Node.js`, `Express.js`, `Supabase`, `Prisma`, `Mongoose`, `PostgreSQL`, `MySQL`, `SQLite`, `MongoDB`, `OOP`, `Playwright`, `Jest`
+`RESTful API`, `Node.js`, `Express.js`, `Supabase`, `Prisma`, `Mongoose`, `PostgreSQL`, `MySQL`, `SQLite`, `MongoDB`, `OOP`, `Playwright`, `Jest`
 
-`Google Analytics 4`, `Facebook Pixel`, `SEO optimizations`, `Chrome Extension development`, `UI/UX`, `Figma`, `WebStorm`
+`Google Analytics 4`, `Facebook Pixel`, `SEO optimization`, `Chrome Extension development`, `UI/UX Design`
 
-`Leadership`, `Mentoring`, `Jira`, `Scrum`, `Vercel`, `Git`, `Bash`
+### Tools I use 🛠️
 
+> *(These aren’t technologies — they’re the tools I master)*
+
+`Figma`, `WebStorm`, `Git`, `Bash`, `Vercel`, `Jira`, `Scrum`
+
+---
+
+🧠 Whether I’m building a design system, optimizing a form with custom validation logic, or integrating a real-time backend with Supabase — I treat code as a product, not just a process.
+
+floatrx — writing UI like a jedy, debugging like a ninja ⚔️
