@@ -1,6 +1,7 @@
 ## Hi there 👋
+<img src="./floatrx.png" alt="floatrx" style="max-width: 100%; width: 300px;">
 
-My name is Andrew Floatrx — but you can call me floatrx.
+My name is Andrew Floatrx.
 
 I'm a frontend craftsman with 15+ years in IT, specializing in TypeScript, React, Next.js, and clean UI/UX architecture.  
 My code style? Minimalist, modular, and pragmatic — always optimized for maintainability and developer happiness.
@@ -29,10 +30,8 @@ I also offer consulting and architecture audits to help improve performance, cod
 
 > *(These aren’t technologies — they’re the tools I master)*
 
-`Figma`, `WebStorm`, `Git`, `Bash`, `Vercel`, `Jira`, `Scrum`
+`Figma`, `WebStorm`, `Git`, `Bash`, `Vercel`, `Jira`
 
 ---
 
 🧠 Whether I’m building a design system, optimizing a form with custom validation logic, or integrating a real-time backend with Supabase — I treat code as a product, not just a process.
-
-floatrx — writing UI like a jedy, debugging like a ninja ⚔️
