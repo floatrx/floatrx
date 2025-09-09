@@ -1,10 +1,7 @@
 ## Hi there 👋
-<img src="./floatrx.png" alt="floatrx" style="max-width: 100%; width: 300px;">
-
-My name is Andrew Floatrx.
 
 I'm a frontend craftsman with 15+ years in IT, specializing in TypeScript, React, Next.js, and clean UI/UX architecture.  
-My code style? Minimalist, modular, and pragmatic — always optimized for maintainability and developer happiness.
+My code style? Minimalist, modular, and pragmatic — always optimized for maintainability and developer expirience.
 
 ### About me
 
