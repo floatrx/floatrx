@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td width="150">
+    <td width="110">
       <img src="./floatrx.png" width="100">
     </td>
     <td>
