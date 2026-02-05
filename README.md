@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="150">
-      <img src="./floatrx.png" width="120">
+      <img src="./floatrx.png" width="100">
     </td>
     <td>
       <p>Frontend developer with 15+ years in IT and team lead experience. I build clean, maintainable web apps with TypeScript, React, and Next.js.</p>
@@ -25,7 +25,6 @@
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
 ![Zustand](https://img.shields.io/badge/-Zustand-433E38?style=flat&logo=react&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![tRPC](https://img.shields.io/badge/-tRPC-2596BE?style=flat&logo=trpc&logoColor=white)
 
 ### UI & Styling
 
@@ -34,7 +33,6 @@
 ![Ant Design](https://img.shields.io/badge/-Ant_Design-0170FE?style=flat&logo=antdesign&logoColor=white)
 ![ShadCN](https://img.shields.io/badge/-ShadCN-000?style=flat&logo=shadcnui&logoColor=white)
 ![Material UI](https://img.shields.io/badge/-MUI-007FFF?style=flat&logo=mui&logoColor=white)
-![Radix UI](https://img.shields.io/badge/-Radix-161618?style=flat&logo=radixui&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
 
 ### Testing
@@ -50,7 +48,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
 ### Build & DevOps
