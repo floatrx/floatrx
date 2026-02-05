@@ -13,19 +13,22 @@
   </tr>
 </table>
 
-### Core
+### Main
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
-### State & Data
-
 ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
 ![Zustand](https://img.shields.io/badge/-Zustand-433E38?style=flat&logo=react&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
+![PWA](https://img.shields.io/badge/-PWA-5A0FC8?style=flat&logo=pwa&logoColor=white)
+![SEO](https://img.shields.io/badge/-SEO-47A248?style=flat&logo=google&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat&logo=vercel&logoColor=white)
 
 ### UI & Styling
 
@@ -61,17 +64,3 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=prettier&logoColor=black)
-
-### Cloud & Deployment
-
-![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat&logo=vercel&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
-![PWA](https://img.shields.io/badge/-PWA-5A0FC8?style=flat&logo=pwa&logoColor=white)
-![SEO](https://img.shields.io/badge/-SEO-47A248?style=flat&logo=google&logoColor=white)
