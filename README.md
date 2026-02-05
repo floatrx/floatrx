@@ -6,7 +6,8 @@
       <img src="./floatrx.png" width="100">
     </td>
     <td>
-      <p>Frontend developer with 15+ years in IT and team lead experience. I build clean, maintainable web apps with TypeScript, React, and Next.js.</p>
+      <p>Frontend dev with 15+ years in IT. I build web apps with TypeScript, React, and Next.js — clean code, no hacks, no over-engineering.</p>
+      <p>I care about UX and business logic equally. Simple interfaces that actually help users get things done.</p>
       <a href="https://www.linkedin.com/in/floatrx/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
     </td>
   </tr>
