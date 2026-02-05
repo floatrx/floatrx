@@ -22,7 +22,3 @@
     </td>
   </tr>
 </table>
-
-### GitHub Streak
-
-<img src="https://streak-stats.demolab.com?user=floatrx&theme=github-dark-blue&hide_border=true" />
