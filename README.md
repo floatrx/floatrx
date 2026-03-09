@@ -1,17 +1,8 @@
 ## Hi, I'm Andrew Floatrx 👋
 
-<table>
-  <tr>
-    <td width="110">
-      <img src="./floatrx.png" width="100">
-    </td>
-    <td>
-      <p>Frontend dev with 15+ years in IT. I build web apps with TypeScript, React, and Next.js — clean code, no hacks, no over-engineering.</p>
-      <p>I care about UX and business logic equally. Simple interfaces that actually help users get things done.</p>
-      <a href="https://www.linkedin.com/in/floatrx/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-    </td>
-  </tr>
-</table>
+<p>Frontend dev with 15+ years in IT. I build web apps with TypeScript, React, and Next.js — clean code, no hacks, no over-engineering.</p>
+<p>I care about UX and business logic equally. Simple interfaces that actually help users get things done.</p>
+<a href="https://www.linkedin.com/in/floatrx/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
 
 ### Main
 
